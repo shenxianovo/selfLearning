@@ -12,7 +12,6 @@ public class SLList {
         }
     }
     
-    private IntNode first;
     private int size;
     /* The first item is at sentinal.next */
     private IntNode sentinal;
