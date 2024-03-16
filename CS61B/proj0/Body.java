@@ -97,7 +97,7 @@ public class Body {
     }
 
     public void draw() {
-        StdDraw.picture(xxPos, yyPos, "./images/"+imgFileName);
+        StdDraw.picture(xxPos, yyPos, "./images/"+imgFileName, 20, 20);
     }
 
 
