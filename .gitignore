@@ -2,3 +2,6 @@ ok
 *.ok
 *.class
 .vscode
+.idea
+*.iml
+lib
